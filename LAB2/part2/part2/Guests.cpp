@@ -19,12 +19,9 @@ namespace sdds {
     }
     
     bool read(Guest& theGuest){
-     //  theGuest.m_name[0] = 0;
-       bool res = false;
+        bool res = false;
         cout << "Guest name: ";
         read(theGuest.m_name, 20);
-        
-        
         
         if (theGuest.m_name[0] != 0){
             read(theGuest.m_phno);
@@ -58,6 +55,7 @@ namespace sdds {
         for ( i = 0; i < theGuestList.m_noOfGuests; i++){
             G_DATA[i] = theGuestList.m_gst[i];
         }
+
         G_DATA[theGuestList.m_noOfGuests] = aGuest;
         delete[] theGuestList.m_gst;
         theGuestList.m_gst = G_DATA;
