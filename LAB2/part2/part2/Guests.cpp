@@ -19,21 +19,18 @@ namespace sdds {
     }
     
     bool read(Guest& theGuest){
-        strcpy(theGuest.m_name, "\0");
+     //  theGuest.m_name[0] = 0;
+       bool res = false;
         cout << "Guest name: ";
         read(theGuest.m_name, 20);
         
-        int x;
-        x = strcmp(theGuest.m_name, "\0");
         
-        if (x != 0){
+        
+        if (theGuest.m_name[0] != 0){
             read(theGuest.m_phno);
-            return true;
+            res =  true;
         }
-        
-        else{
-            return false;
-        }
+        return res;
     }
     
     void print(const PhoneNumber& thePhoneNumber){
@@ -61,7 +58,7 @@ namespace sdds {
         for ( i = 0; i < theGuestList.m_noOfGuests; i++){
             G_DATA[i] = theGuestList.m_gst[i];
         }
-
+        G_DATA[theGuestList.m_noOfGuests] = aGuest;
         delete[] theGuestList.m_gst;
         theGuestList.m_gst = G_DATA;
         theGuestList.m_noOfGuests += 1;
