@@ -1,0 +1,10 @@
+
+Name   : - Amandeep Singh
+ID     : 145041208
+Email  : asingh984@myseneca.ca
+Section: OOP244 NCC
+Date   : OCT 18,2021
+I have done all the coding by myself and only copied the code that my professor provided to complete my workshops and assignments.
+
+
+Working on this workshop was quite a boom for me. Some parts were quite easy and were like a straight road. One other hand, some functions were quite (new concepts) tough, and were like a trodden road. However, spending hours on these concepts made them clear and understandable. The main idea for this workshop was the dynamic memory of allocation. The lab 1 was straightforward because the steps were already given, and I had to just convert those words into code. It took some time, but I was able to complete it. However, in DIY  “bool read(Guest& theGuest)” and “void addGuest(GuestList& theGuestList, const Guest& aGuest)” functions took most of the time. For “bool read(Guest& theGuest)”, setting first element to empty took me almost 2 hours to discover. But I was able to find it, and you (Professor Fardad Soleimanloo) modified to a much better code. I almost completed the addGuest function, but I was not able input data, which resulted in displaying data. But you rectified the problem, and it lead to the completion of the worshop.
