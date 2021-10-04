@@ -1,0 +1,14 @@
+Name   : - Amandeep Singh
+ID     : 145041208
+Email  : asingh984@myseneca.ca
+Section: OOP244 NCC
+Date   : OCT 18,2021
+I have done all the coding by myself and only copied the code that my professor provided to complete my workshops and assignments.
+
+
+By completing this workshop I was able to learn the basic structure of a C++ code and was able to grasp the concept of code separation. Other than that, it was a good way to make students revise the C code, which I did in 1st semester.  Since, 98% of the code was already you I didn’t have many things to work in lab 1. However, I think it’s the most suitable way for the start of this course.
+
+Problems:-
+1.	The instructions were detailed but could have been much more detailed. It would have been much better if the main parts were highlighted or bolded. This would have made it easier for me and other students to identify the main sections.
+2.	The section where the parts for each module was mentioned were in incorrect order. Like the “Required standard libraries to include” was provided at the bottom of every module, which made it confusing for me to understand.
+3.	In the “Files to submit:” part, util.h was mentioned two times rather than one time, and util.cpp was nowhere to be found. It wasn’t much of a deal because I understood it was a typo mistake. Still, I think this mistake should be rectified.
