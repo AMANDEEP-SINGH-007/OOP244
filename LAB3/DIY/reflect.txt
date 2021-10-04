@@ -1,0 +1,15 @@
+Name   : - Amandeep Singh
+ID     : 145041208
+Email  : asingh984@myseneca.ca
+Section: OOP244 NCC
+Date   : OCT 3,2021
+
+I have done all the coding by myself and only copied the code that my professor provided to complete my workshops and assignments.
+
+
+By doing this workshop I was able to learn about the member functions, private and public state. However, I am still learning about the member functions. I noticed something while completing the DIY part, and it was that even though it was DIY part, I did not have much to do. It is because most of the code and logic was from the lab part, and I had to change the lines only. As a result, the DIY  should be accounted for only 10% of the whole workshop. But I also know that doing the lab part was not so easy. I spent most of the time completing the lab part as the concepts were totally new, and it was difficult for me to understand them. However, I completed it at the very last minute.
+
+I saw a typo error in the readme.md file, and it is as mentioned below:
+In the header file of workshop part 1 was asked to print "***** ", but during the submission it was required to be "*****  " or 2 spaces after the 5th asterisk.
+
+Other than that setting the values using ‘setf’ was the last difficult task, but somehow I managed to use it properly. 
