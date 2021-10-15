@@ -1,0 +1,11 @@
+/*
+	Name   : - Amandeep Singh
+	ID     : 145041208
+	Email  : asingh984@myseneca.ca
+	Section: OOP244 NCC
+	Date   : OCT 10,2021
+	I have done all the coding by myself and only copied the code that my professor provided to complete my workshops and assignments.
+*/
+
+Truthfully, this workshop was like a big headache for me. Especially, the DIY part, where I had to write most of the code. However, I enjoyed the process of writing the code and learning the whole process of the constructors, destructors, and current object. The  lab was sort of easy, but wasn’t that hard. Since the functions required were given, and the logic was given in the form of a pseudocode. Still, it was not that easy because I got confused in the city function(where I had used the setCityName function). That consumed most of the time.
+In the DIY everything was open ended for most part. I had a hard time identifying the required functions and logic. But at the end of the day, I was able to complete the workshop. I am really looing forward to have these type of workshops because it forces me to learn more about the concepts and their working.
