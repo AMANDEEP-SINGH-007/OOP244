@@ -1,0 +1,16 @@
+/*
+	Name   : - Amandeep Singh
+	ID     : 145041208
+	Email  : asingh984@myseneca.ca
+	Section: OOP244 NCC
+	Date   : OCT 27,2021
+	I have done most of the code by myself only and only copied the parts my professor provided to complete my workshops and assignments, and also took help from Mitchell Rose ,Email: mjrose1@myseneca.ca, Student ID: 018733147.
+*/
+
+
+This workshop was quite a haste for me. I did not get much time to work on this workshop(thanks to my poor time management and other projects). Still, I tried my best to learn as much as I can.
+So, in this workshop I learnt about various functions such as peek, fail, get, getline and setstate, and used them. However, I am still unsure about the working of get and getline, and would try to learn them properly, when I get sufficient time.
+
+As usual, the 1st part was plain road. Since everything was provided in detailed explanation. So, with little bit of notes reading and readme.md. I was able to complete the 1st part.
+
+However, the 2nd part was a headache because I did not have much time to complete it. As a result, there were errors in my code, and the output coming was wrong. But Mitchell Rose  helped me in correcting my read function, and I completed my 2nd part as well. 
